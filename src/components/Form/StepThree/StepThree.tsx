@@ -177,7 +177,9 @@ export default function StepThree({
                       const { errors } = formState;
                       return (
                         <FormItem>
-                          <FormLabel>{item}</FormLabel>
+                          <FormLabel className="text-muted-foreground">
+                            {item} Related Experience
+                          </FormLabel>
                           <FormControl>
                             <Input
                               placeholder="Related Experience"
