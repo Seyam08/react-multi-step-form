@@ -1,0 +1,16 @@
+export const mockManagers = [
+  { id: "ENG001", name: "John Doe", department: "Engineering" },
+  { id: "ENG002", name: "Jane Smith", department: "Engineering" },
+  { id: "ENG003", name: "Mike Taylor", department: "Engineering" },
+  { id: "MKT001", name: "Emily Clark", department: "Marketing" },
+  { id: "MKT002", name: "Chris Adams", department: "Marketing" },
+  { id: "MKT003", name: "Sophia White", department: "Marketing" },
+  { id: "SAL001", name: "Daniel Scott", department: "Sales" },
+  { id: "SAL002", name: "Laura Hill", department: "Sales" },
+  { id: "SAL003", name: "Kevin Young", department: "Sales" },
+  { id: "HR001", name: "Hannah Wood", department: "HR" },
+  { id: "HR002", name: "Peter Evans", department: "HR" },
+  { id: "FIN001", name: "Rachel King", department: "Finance" },
+  { id: "FIN002", name: "Mark Lewis", department: "Finance" },
+  { id: "FIN003", name: "Chloe Baker", department: "Finance" },
+];
